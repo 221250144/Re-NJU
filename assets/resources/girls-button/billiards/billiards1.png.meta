@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "53b21446-608d-42fa-8a37-f5b046dda73e",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1024,
+  "height": 1024,
+  "platformSettings": {},
+  "subMetas": {
+    "billiards1": {
+      "ver": "1.0.6",
+      "uuid": "0618ad85-3909-4267-b8a4-3bf1f7834648",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "53b21446-608d-42fa-8a37-f5b046dda73e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 18,
+      "trimY": 0,
+      "width": 988,
+      "height": 1024,
+      "rawWidth": 1024,
+      "rawHeight": 1024,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "9ab1e891-d2bd-4376-b075-fdc183323c42",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 783,
+  "height": 187,
+  "platformSettings": {},
+  "subMetas": {
+    "聊天气泡boy - 副本": {
+      "ver": "1.0.6",
+      "uuid": "113e3798-cd4a-481d-97f7-fdc6ce9ac532",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "9ab1e891-d2bd-4376-b075-fdc183323c42",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 783,
+      "height": 187,
+      "rawWidth": 783,
+      "rawHeight": 187,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

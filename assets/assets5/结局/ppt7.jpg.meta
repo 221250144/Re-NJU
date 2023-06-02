@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "1f19cd08-dc35-4c38-90cd-54523c08036c",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 900,
+  "height": 600,
+  "platformSettings": {},
+  "subMetas": {
+    "ppt7": {
+      "ver": "1.0.6",
+      "uuid": "6f28f259-e538-4ac8-ac6c-831b781489fa",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "1f19cd08-dc35-4c38-90cd-54523c08036c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 900,
+      "height": 600,
+      "rawWidth": 900,
+      "rawHeight": 600,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
